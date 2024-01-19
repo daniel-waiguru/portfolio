@@ -41,7 +41,7 @@ object Resources {
         const val BUTTON_TEXT = "Get in touch"
         const val ROBOTO_CONDENSED = "RobotoCondensedBold"
         const val ROBOTO_REGULAR = "RobotoRegular"
-        const val MY_EMAIL = "mailto:danielwaiguru@gmail.com"
+        const val MY_EMAIL = "mailto:danielirungu91@gmail.com"
         const val SAVED_THEME = "theme"
     }
 
