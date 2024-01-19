@@ -57,15 +57,17 @@ enum class SocialIcon(
     GithubLight(
         icon = Resources.Icon.GITHUB_LIGHT,
         link = "https://github.com/daniel-waiguru"
-    ),
-    Gitlab(
-        icon = Resources.Icon.GITLAB,
-        link = "https://gitlab.com"
-    ),
-    GitlabLight(
-        icon = Resources.Icon.GITLAB_LIGHT,
-        link = "https://gitlab.com"
-    ),
+    )
+//    ,
+//    Gitlab(
+//        icon = Resources.Icon.GITLAB,
+//        link = "https://gitlab.com"
+//    ),
+//    GitlabLight(
+//        icon = Resources.Icon.GITLAB_LIGHT,
+//        link = "https://gitlab.com"
+//    )
+    ,
     Instagram(
         icon = Resources.Icon.INSTAGRAM,
         link = "https://www.instagram.com/_danielwaiguru/"
